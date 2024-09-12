@@ -17,8 +17,7 @@ matching = logical(hungarian(errorMatrix));
 
 %- YP fix
 finalErrorTmp = errorMatrix(matching);
-finalError(1:numel(finalErrorTmp)) = finalErrorTmp;
-finalError = sqrt(finalError);
+finalError(1:numel(finalErrorTmp)) = sqrt(finalErrorTmp);
 end
 
 
