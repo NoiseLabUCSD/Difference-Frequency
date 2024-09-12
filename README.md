@@ -1,4 +1,4 @@
-# Difference-Frequency
+# Difference-Frequency MUSIC
 
 A set of MATLAB codes for direction-of-arrival (DOA) estimation, beamforming, using difference frequency processing.
 
