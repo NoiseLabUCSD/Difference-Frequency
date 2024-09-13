@@ -12,7 +12,7 @@ The codes provide:
 
 # Citation
 
--**[Y. Park, P. Gerstoft, and J. H. Lee, “Difference-Frequency MUSIC for DOAs,” IEEE Signal Process. Lett. 29, 2612–2616 (2022).](https://ieeexplore.ieee.org/abstract/document/9992076)  
+-**[Y. Park, P. Gerstoft, and J. H. Lee, “Difference-Frequency MUSIC for DOAs,” IEEE Signal Process. Lett. 29, 2612–2616 (2022).](https://ieeexplore.ieee.org/abstract/document/9992076)**  
 
 [[pdf]](https://www.dropbox.com/sh/qgi9symf43rki41/AADSrGg567PS86_S4A7j6aWEa?dl=0)  
 
